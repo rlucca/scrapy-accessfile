@@ -36,3 +36,8 @@ DOWNLOADER_MIDDLEWARES = {
     'project.scrapy-accessfile.AccessFileStats': 545, # TODO change project to your project name
 }
 ```
+
+License
+-------
+
+License free to use.

@@ -1,6 +1,15 @@
 from scrapy.exceptions import NotConfigured
 from time import time
 
+__author__ = 'Ricardo Rodrigues Lucca'
+__credits__ = ['Ricardo Rodrigues Lucca']
+__license__ = 'free'
+__version__ = '0.1'
+__maintainer__ = 'Ricardo Rodrigues Lucca'
+__email__ = 'rlucca@gmail.com'
+__status__ = 'Development'
+__original_source__ = 'https://raw.githubusercontent.com/rlucca/scrapy-accessfile/master/scrapy-accessfile.py'
+
 
 class AccessFileStats(object):
 
