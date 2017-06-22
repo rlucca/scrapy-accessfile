@@ -1,3 +1,10 @@
+#!/usr/bin/python
+# -*-coding:utf-8-*-
+""" Scrapy Middleware to write in a file all results of every Request.
+
+Downloader Middleware which writes to a file the result of each request.
+A result may not be written if it is filtered.
+"""
 from scrapy.exceptions import NotConfigured
 from time import time
 

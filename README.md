@@ -40,4 +40,4 @@ DOWNLOADER_MIDDLEWARES = {
 License
 -------
 
-License free to use.
+Free to use.
